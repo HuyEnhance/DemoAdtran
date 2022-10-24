@@ -32,3 +32,5 @@ WebUI.sendKeys(findTestObject('Object Repository/Login/Page_AdTran - Integrated 
 
 WebUI.authenticate('', '', '', 0)
 
+WebUI.acceptAlert()
+
