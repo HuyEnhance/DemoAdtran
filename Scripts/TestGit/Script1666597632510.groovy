@@ -30,3 +30,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_AdTran - Int
 WebUI.sendKeys(findTestObject('Object Repository/Login/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
     Keys.chord(Keys.ENTER))
 
+WebUI.authenticate('', '', '', 0)
+
