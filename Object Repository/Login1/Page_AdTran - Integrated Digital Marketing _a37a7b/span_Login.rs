@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>73f43190-677a-4977-aad5-e649415c5201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[2]/div/div/div/form/div[4]/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.pull-right > span.ng-binding.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a38fe8e-020c-4757-ad01-5fbf021b3867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!isProcessing</value>
+      <webElementGuid>177a7141-234e-49d1-ab5a-9f64b1a28c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>ec93bb4f-4969-4cc0-b934-df78205ccea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>a9dac146-cb70-4472-aebc-825e8188d5b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container focused-form ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-md-offset-4&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body pb-md&quot;]/form[@class=&quot;form-horizontal ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-6&quot;]/button[@class=&quot;btn btn-primary pull-right&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>2481f078-70ac-485d-8dee-c90a9f908e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[2]/div/div/div/form/div[4]/div[2]/button/span</value>
+      <webElementGuid>a6b3adb5-bdf7-4d9a-b3d6-fc8de0c017bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language:'])[1]/following::span[1]</value>
+      <webElementGuid>3f415870-e9c7-418e-92cf-6d6f8732629f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::span[1]</value>
+      <webElementGuid>41509aff-739c-4ea7-aef8-b446b3c797f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>16fbab5b-d1c1-4631-a60c-d8aa38506db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>413447dc-03e6-41a1-8cea-8d16480b78f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>7a76bd63-bbda-4b90-b0f7-07b7b8d46c13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

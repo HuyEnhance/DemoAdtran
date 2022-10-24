@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Record Test</name>
+   <tag></tag>
+   <elementGuidId>427855c4-2878-4562-88c8-9d6bad7142f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr[4]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0cde106-0256-4577-a32f-8a45f33f7cc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/campaigns/773</value>
+      <webElementGuid>4f85a672-7550-47d4-ad11-3269f1490ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>628f6a8c-2d3a-4f25-8771-526f67921457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Test</value>
+      <webElementGuid>08b088b3-63d3-40fe-847d-8761400cc36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;panel panel-default ng-scope&quot;]/div[@class=&quot;panel-body p-md&quot;]/div[@class=&quot;table-responsive table-bordered mb-n&quot;]/div[@class=&quot;dataTables_wrapper form-inline no-footer&quot;]/table[@class=&quot;table table-bordered table-striped dataTable no-footer&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-left&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>4718e0e9-aaaf-4f26-b57a-39ee9a000435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr[4]/td[2]/a</value>
+      <webElementGuid>db9f9c56-70c9-4fdf-8ff1-cdae94a6d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Record Test')]</value>
+      <webElementGuid>f87cc0fb-4376-4bd8-a66c-9721b84fd317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[17]/following::a[3]</value>
+      <webElementGuid>b95e5c74-187a-4e9e-acf0-726bb365ef18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/following::a[3]</value>
+      <webElementGuid>675869af-633c-440a-9159-985889170c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='株式会社クリーマ'])[2]/preceding::a[1]</value>
+      <webElementGuid>42b33f2a-00c0-49e7-9fb6-7cd32dcdf1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[18]/preceding::a[2]</value>
+      <webElementGuid>291d2e72-82b1-46fb-aade-f8cf03aa1e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record Test']/parent::*</value>
+      <webElementGuid>783aa176-6188-4f4e-8a47-325fd8a00755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/campaigns/773')]</value>
+      <webElementGuid>68791277-a741-4867-b9d8-5224ef965d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/a</value>
+      <webElementGuid>cad352b5-feb2-482f-8e21-eb502a12c38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/campaigns/773' and (text() = 'Record Test' or . = 'Record Test')]</value>
+      <webElementGuid>c71cee38-ef78-4fa7-8360-861436a714cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

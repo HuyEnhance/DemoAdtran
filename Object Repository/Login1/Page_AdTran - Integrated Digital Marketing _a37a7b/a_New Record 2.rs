@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Record 2</name>
+   <tag></tag>
+   <elementGuidId>248f1ac1-2b8d-4903-85f5-2c11042aac85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr[3]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1325c3d9-827e-425a-9d85-1aaed72f348f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/campaigns/774</value>
+      <webElementGuid>cfc682a8-4a37-47aa-9e8b-e51a8802f972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>2b637f0c-35fb-4a30-8dc5-979237093ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Record 2</value>
+      <webElementGuid>22b6a196-a9bf-431d-a573-3d19a7c454d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;panel panel-default ng-scope&quot;]/div[@class=&quot;panel-body p-md&quot;]/div[@class=&quot;table-responsive table-bordered mb-n&quot;]/div[@class=&quot;dataTables_wrapper form-inline no-footer&quot;]/table[@class=&quot;table table-bordered table-striped dataTable no-footer&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-left&quot;]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>8eaef883-e127-45e9-ace2-aaa9f8cd83c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr[3]/td[2]/a</value>
+      <webElementGuid>b0163370-4252-44a2-871c-45043de2901d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'New Record 2')])[3]</value>
+      <webElementGuid>0fc8bbe9-6264-4d51-a8aa-d523b7a5c676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[12]/following::a[3]</value>
+      <webElementGuid>7b5ce160-1359-466a-815a-4ea0cde20a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[11]/following::a[3]</value>
+      <webElementGuid>30466c76-cff8-4fbe-9e33-b83b0d50f811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選択出版株式会社'])[2]/preceding::a[1]</value>
+      <webElementGuid>c7e450dc-5fa5-4ffd-8a4f-3e9d95f185fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[13]/preceding::a[2]</value>
+      <webElementGuid>f1205d93-2a10-4a2c-b115-9f538bf5a8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/campaigns/774')]</value>
+      <webElementGuid>2e60603b-f0da-47a9-ae8b-1c106fd49b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>c391ecf6-ec28-495e-812f-f56c67a92b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/campaigns/774' and (text() = 'New Record 2' or . = 'New Record 2')]</value>
+      <webElementGuid>6ec710b3-63b6-4bdd-a548-4a513407fd27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
