@@ -8,7 +8,7 @@
       "proposedLocator": "//a[contains(text(),\u0027Google PLA\u0027)]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Google PLA_link.png"
+      "pathToScreenshot": "Reports/20221025_151134/Test Client Dashboard/20221025_151134/Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Google PLA_link.png"
     },
     {
       "approved": true,
@@ -18,7 +18,7 @@
       "proposedLocator": "//a[contains(text(),\u0027エイベックス株式会社\u0027)]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a__link.png"
+      "pathToScreenshot": "Reports/20221025_151134/Test Client Dashboard/20221025_151134/Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a__link.png"
     },
     {
       "approved": true,
@@ -29,6 +29,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_CCC",
+      "brokenLocator": "//div[@id\u003d\u0027horizontal-navbar\u0027]/ul/li[2]/ul/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027CCC\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221025_151134"
     }
   ]
 }

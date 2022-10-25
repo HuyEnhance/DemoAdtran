@@ -19,14 +19,14 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a13a1e43-3858-48b3-adf1-2cc57e06277e</guid>
+      <guid>5d18de3d-7575-41d5-bf11-4bb0374bc84b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC2_Client Dashboard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e2f6494c-5b10-44f9-96ac-32638a52fa74</guid>
+      <guid>50149282-6ca2-4f51-929c-72aa67f20109</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC3_Client Dashboard</testCaseId>
