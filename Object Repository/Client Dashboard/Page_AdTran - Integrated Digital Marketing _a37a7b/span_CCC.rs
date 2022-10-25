@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CCC</name>
+   <tag></tag>
+   <elementGuidId>009f849d-ad1b-42fd-957f-aacd36f2863f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/form/div/div/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding.hidden-xs.hidden-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>397e0cd7-42c9-4565-9f5f-1b4d05506346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'hidden-xs hidden-sm': activeCampaignAddTab != channel.name}</value>
+      <webElementGuid>1cdb96ef-d352-4014-ad1d-126244a77cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding hidden-xs hidden-sm</value>
+      <webElementGuid>cb6e4c81-4110-489a-b6a9-80785323d6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CCC</value>
+      <webElementGuid>c85f1049-2cd3-4e9f-bba8-6618b7f3bfa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body p-md&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;tab-container tab-default&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;pl15 pr15&quot;]/span[@class=&quot;ng-binding hidden-xs hidden-sm&quot;]</value>
+      <webElementGuid>0fa18f66-3afd-44c6-a76d-f2f14d5ac2f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/form/div/div/ul/li/a/span</value>
+      <webElementGuid>f125835f-da87-4b51-8366-14ffcdf9cbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Reporting data of new connected campaigns will be available within 5 minuntes'])[1]/following::span[1]</value>
+      <webElementGuid>3c4ab182-9b2c-4e84-b813-52642d717431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect More Campaigns'])[1]/following::span[1]</value>
+      <webElementGuid>f233a40b-eac6-496c-b8bc-750abaa0723d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[6]/preceding::span[1]</value>
+      <webElementGuid>8f209135-f9e5-40ef-8e23-e8cb0f91a43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google PLA'])[4]/preceding::span[2]</value>
+      <webElementGuid>e77920b2-1c6c-4b3e-a641-3ef55ca89a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a/span</value>
+      <webElementGuid>80bf52af-6edc-40a4-87a2-bfd95acfdb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CCC' or . = 'CCC')]</value>
+      <webElementGuid>5d14a03b-58d4-4a15-a2dd-537d594db7b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

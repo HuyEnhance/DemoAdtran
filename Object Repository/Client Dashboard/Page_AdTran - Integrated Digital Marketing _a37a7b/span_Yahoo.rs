@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yahoo</name>
+   <tag></tag>
+   <elementGuidId>4ebc786f-93fb-4031-818d-25dc36b8bb28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/form/div/div/ul/li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>233fcb52-437f-4400-9779-73b861a270a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'hidden-xs hidden-sm': activeCampaignAddTab != channel.name}</value>
+      <webElementGuid>98a75e99-433f-417c-88e3-d72a061abec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding hidden-xs hidden-sm</value>
+      <webElementGuid>5cf50637-c286-441f-918e-99039800d150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yahoo スポンサードサーチ</value>
+      <webElementGuid>ca444f41-14c7-4fd4-a8d8-d9da8e8b7d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body p-md&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-valid&quot;]/div[1]/div[@class=&quot;tab-container tab-default&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;pl15 pr15&quot;]/span[@class=&quot;ng-binding hidden-xs hidden-sm&quot;]</value>
+      <webElementGuid>c08debd3-1313-4072-b1c4-ed72a30e1125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/form/div/div/ul/li[5]/a/span</value>
+      <webElementGuid>e70e6a17-3e5a-4fe9-b30e-391979469f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SoftBank Ads Platform'])[8]/following::span[1]</value>
+      <webElementGuid>16c255a5-d3c3-4e0f-90ec-3767605b4c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google PLA'])[4]/following::span[2]</value>
+      <webElementGuid>b65357a5-a651-416b-8f87-4574c29300d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Account'])[1]/preceding::span[1]</value>
+      <webElementGuid>9defc914-f918-4d2b-b37c-a3c67e7ef9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(16) CCC Configuration'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e761655-96b0-4536-8d52-b6ae60ce6326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[5]/a/span</value>
+      <webElementGuid>74f4263e-55b2-4a8f-8c5d-6f7896f2ad48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yahoo スポンサードサーチ' or . = 'Yahoo スポンサードサーチ')]</value>
+      <webElementGuid>09e47204-05b2-4445-b306-17355595473d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

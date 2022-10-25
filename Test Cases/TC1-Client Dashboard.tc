@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bước 1: check xem thử channel thuộc campaign mà client Quản lí hiện lên ở list</description>
+   <name>TC1-Client Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0f5f92e-3ffa-4d57-9efe-e8dd59170698</testCaseGuid>
+</TestCaseEntity>

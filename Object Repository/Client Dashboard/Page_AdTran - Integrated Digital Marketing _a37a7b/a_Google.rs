@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Google</name>
+   <tag></tag>
+   <elementGuidId>df621fa2-5fe1-4819-9608-51318f824649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='horizontal-navbar']/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ng-binding.disabled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0fe8b0b9-27a7-480e-8db7-aacab1c4b467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active': state.name.indexOf('campaignsIdChannel') == 0 &amp;&amp; stateParams.channelName == channel.name, 'disabled': channel.subChannels.length}</value>
+      <webElementGuid>b077ff87-6009-4071-acb9-541fe93c6951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding disabled</value>
+      <webElementGuid>5cb5a67e-49fe-4876-be1a-8b2c3df87c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Google
+                </value>
+      <webElementGuid>1d776d66-431c-48d1-9c62-0e6a38d18ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;horizontal-navbar&quot;)/ul[@class=&quot;nav navbar-nav smart-menu&quot;]/li[@class=&quot;dropdown ng-scope active open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-left&quot;]/li[@class=&quot;ng-scope&quot;]/a[@class=&quot;ng-binding disabled&quot;]</value>
+      <webElementGuid>ab6dcc9e-575b-4827-aea2-30eaebea7125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='horizontal-navbar']/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>bcbfb70b-74c8-4870-8aa2-2e12c36d94b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Google')]</value>
+      <webElementGuid>c2fb6098-7d1e-4cff-bebe-9bfb601ed0d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::a[1]</value>
+      <webElementGuid>191dff24-7144-48a7-815f-0226671384ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::a[2]</value>
+      <webElementGuid>3b093821-5632-4b03-b807-aa0ef7a95907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google PLA'])[1]/preceding::a[1]</value>
+      <webElementGuid>eae985b4-7f50-42b1-aa00-02595aa9b057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SoftBank Ads Platform'])[1]/preceding::a[2]</value>
+      <webElementGuid>974f9f3f-f2dd-438c-afbe-dc937a5da72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Google']/parent::*</value>
+      <webElementGuid>1b2704c7-8977-440d-a49b-a407e54b2a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>ed79031c-8bd8-4d07-a284-f870bbcabc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+                  Google
+                ' or . = '
+                  Google
+                ')]</value>
+      <webElementGuid>7f51b1be-b209-4470-82e5-adf1808fa142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

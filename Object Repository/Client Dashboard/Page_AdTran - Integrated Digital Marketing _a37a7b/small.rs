@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small</name>
+   <tag></tag>
+   <elementGuidId>c5247e19-8a1b-4d24-a368-0e5c90cb618a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[44]/td[3]/span/span/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>ca05956b-f4d6-425a-ae81-400dd761a349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body p-md&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane active&quot;]/div[1]/div[1]/div[@class=&quot;table-responsive mb-md&quot;]/table[@class=&quot;table table-striped mb-n&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-center&quot;]/span[1]/span[@class=&quot;switchery&quot;]/small[1]</value>
+      <webElementGuid>325fb54f-aec9-4bb0-bd7b-adf2805f69c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[44]/td[3]/span/span/small</value>
+      <webElementGuid>692c415a-94a9-4380-b950-d569f70d52ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[44]/td[3]/span/span/small</value>
+      <webElementGuid>6d9491d5-8803-439e-8043-5ba18876b209</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
