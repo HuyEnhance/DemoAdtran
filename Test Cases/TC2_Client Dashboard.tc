@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>ennable channel ở campaign đó , xem có show ở client dashboard không .</description>
+   <description>B2:Connect channel với campaign 263 ,để xem bên client dashboard có show channel không .</description>
    <name>TC2_Client Dashboard</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ad4d688b-b13d-464f-875c-20fad9dd5f5d</testCaseGuid>
+   <testCaseGuid>4ea3766e-db02-4118-91c7-d019f10d9a5c</testCaseGuid>
 </TestCaseEntity>

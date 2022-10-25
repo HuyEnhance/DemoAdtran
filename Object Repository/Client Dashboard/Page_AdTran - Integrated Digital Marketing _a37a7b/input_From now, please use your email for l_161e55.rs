@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ed062a7b-5454-47bd-9dcf-65cada4eee51</webElementGuid>
+      <webElementGuid>ed9122ce-a7e0-4dc3-80e5-f0055126e061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>23ae045d-bd9f-4e69-a530-53fb2e9dfd7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid ng-empty</value>
+      <webElementGuid>e1828318-cbf3-4f67-a729-29926cae45c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>30252cfd-e0f8-4c20-b634-aac32d8d0bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>form.username</value>
+      <webElementGuid>53849485-a3a3-4e78-8ed8-c1ee2f9e9203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container focused-form ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-md-offset-4&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body pb-md&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-valid ng-empty&quot;]</value>
+      <webElementGuid>f496cf50-6071-4a27-80ba-e7dc82a946bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ed062a7b-5454-47bd-9dcf-65cada4eee51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +89,7 @@
       <webElementGuid>568dbc7b-8501-45ca-a0fc-0d01480a23b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -166,7 +214,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>3094542b-0fc3-4814-9b69-4d035e36beb7</webElementGuid>
+      <webElementGuid>f1bafc44-040f-4589-a052-d33bac75257b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +222,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div/div[2]/div/div/div/form/div[2]/div/div/input</value>
-      <webElementGuid>f3e2f6f9-7ac3-4517-8f8e-95441721b650</webElementGuid>
+      <webElementGuid>c0019321-1cfe-4502-b036-927ecae8dffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +230,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d20c0a76-c182-4440-b777-9b53240a20a1</webElementGuid>
+      <webElementGuid>45be7053-7713-4f67-b19d-ede0bac8d485</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +238,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Email']</value>
-      <webElementGuid>8b752164-5963-47d2-85d6-d2bba119e1e7</webElementGuid>
+      <webElementGuid>2cf56895-4b3b-4245-a84f-2ffe40257f18</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

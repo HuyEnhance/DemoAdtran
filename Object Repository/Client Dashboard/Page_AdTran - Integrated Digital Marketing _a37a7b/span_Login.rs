@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>9a948951-e0fa-4199-b086-c6c27b090059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!isProcessing</value>
+      <webElementGuid>1a95131c-81d2-4116-9aff-9aa1b9ceb257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>9df0ec3d-f293-4cda-99a3-ef17bc72c06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>d6deb74d-a58a-4f02-ac1f-f85c42d898f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;container focused-form ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-md-offset-4&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body pb-md&quot;]/form[@class=&quot;form-horizontal ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-xs-6&quot;]/button[@class=&quot;btn btn-primary pull-right&quot;]/span[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>58c08acc-0330-446a-9b92-e83565e5fd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>7daa5185-e5ff-47f6-ad36-d46908569130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -41,7 +81,7 @@
       <webElementGuid>eafdaafe-7fbe-4cf8-ac92-92c6b58dd605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='wrapper']/div/div[2]/div/div/div/form/div[4]/div[2]/button/span</value>
-      <webElementGuid>ee248b3f-885f-419a-b812-9ff3ef0c8ccb</webElementGuid>
+      <webElementGuid>5b1b26d5-42f8-44c5-af61-0fd96f845245</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Language:'])[1]/following::span[1]</value>
-      <webElementGuid>cd699fb8-e79a-4265-9f56-1fed5f589cc3</webElementGuid>
+      <webElementGuid>582f659e-5496-4627-a887-a0b0f2ef7d0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::span[1]</value>
-      <webElementGuid>fafdf013-cf83-4c2f-aa9c-a0a2a0d503c8</webElementGuid>
+      <webElementGuid>3f84cd9a-4714-485e-ade1-57955bce48e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>ddfd955c-88e8-457f-b7e4-24c04939a4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>a0006a3f-cd2f-46d0-8537-2a3f4cdd541d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>c14713f4-a10e-424b-b642-871dde3b7115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,29 +151,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help &amp; Support'])[1]/preceding::span[1]</value>
       <webElementGuid>09be7284-ae75-44a2-ab00-24818d6d4a0c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>c6e7cc72-a150-43df-ba58-b9de20ca23e2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>1e64ab38-0e87-4808-9149-dee79b878727</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>e82ada77-0b88-4f47-950c-b4404c97f98b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

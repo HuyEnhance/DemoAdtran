@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d6e6050c-22ef-4c73-96e6-984ef9de0b51</webElementGuid>
+      <webElementGuid>3eed839d-ebee-4504-8c9d-ad5ab187739e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/campaigns/263/settings/channel</value>
+      <webElementGuid>d93c07ab-2db4-4d1f-9b13-ec7f7a457624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>f7427872-1345-4a4a-a6a7-4f78c7b1071a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Channel Settings</value>
+      <webElementGuid>64654cd0-8d1e-4491-87de-f5e4ea2f7801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-sidebar&quot;)/nav[@class=&quot;widget-body&quot;]/ul[@class=&quot;acc-menu&quot;]/li[@class=&quot;hasChild open&quot;]/ul[@class=&quot;acc-menu&quot;]/li[4]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>5c2db279-662c-438b-8660-69a49d8cbb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6e6050c-22ef-4c73-96e6-984ef9de0b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>e7ab3f5f-a9e1-4fcd-9232-b361832c7689</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='widget-sidebar']/nav/ul/li[9]/ul/li[4]/a</value>
-      <webElementGuid>02d7051e-752d-44e9-a7c7-e8e18bed47c3</webElementGuid>
+      <webElementGuid>65848982-ac16-471e-8cac-bc3569ee7bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Channel Settings')]</value>
-      <webElementGuid>12bc58fd-de46-452c-baee-a761ec65fd49</webElementGuid>
+      <webElementGuid>f561e296-f9b0-432f-971f-6ce7f072e78f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Exchange Rate'])[1]/following::a[1]</value>
-      <webElementGuid>e0f3e055-b5cc-4f38-965e-48aca2747093</webElementGuid>
+      <webElementGuid>f3705d1e-df4c-4efe-8231-0d9622a674a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy &amp; Sell Settings'])[1]/following::a[2]</value>
-      <webElementGuid>71f39ce4-8aaa-4b52-8627-0e0fa2fee4dc</webElementGuid>
+      <webElementGuid>cf5812e7-62f9-4a59-b450-0f2a8b70b77b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Label Settings'])[1]/preceding::a[1]</value>
-      <webElementGuid>9c845c0e-5da3-4057-872a-ff1e1d6faad3</webElementGuid>
+      <webElementGuid>b481390b-0ba4-4440-8ead-7f3672038c2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Labels'])[1]/preceding::a[2]</value>
-      <webElementGuid>f4e29d89-2e43-4eaf-ad79-9af7c843f71f</webElementGuid>
+      <webElementGuid>e20e5bc9-3094-42c0-a60d-60fb093741e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Channel Settings']/parent::*</value>
-      <webElementGuid>b2ba985e-2402-4bda-a14f-b1341e9ca29b</webElementGuid>
+      <webElementGuid>8db1f41c-a64c-44b1-a900-9ca3b23f9295</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +158,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#/campaigns/263/settings/channel')]</value>
-      <webElementGuid>714c7c64-fcc9-4c27-9d04-13f2063ab9fe</webElementGuid>
+      <webElementGuid>b0e217fc-40d0-4ae3-9135-680d61b81ff7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +166,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[9]/ul/li[4]/a</value>
-      <webElementGuid>3cf21e02-68c9-40f7-8761-2351278fbbb6</webElementGuid>
+      <webElementGuid>f327f88c-7b2c-4ced-8dc9-f53c63a69817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +174,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#/campaigns/263/settings/channel' and (text() = 'Channel Settings' or . = 'Channel Settings')]</value>
-      <webElementGuid>a6857e7c-a09c-47f5-a069-5c9be249492c</webElementGuid>
+      <webElementGuid>8d95c80f-0355-4cb3-8dd6-dcc55f93d49c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
