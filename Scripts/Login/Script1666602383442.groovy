@@ -19,25 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://internal.demo.maplus.microadtech.com/#/users/login')
+for (int i = 0; i < 2; i++) {
+    WebUI.navigateToUrl('https://internal.demo.maplus.microadtech.com/#/users/login')
 
-WebUI.setText(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_161e55'), 
-    'ueno_rina@microad.co.jp')
+    WebUI.setText(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_161e55'), 
+        'ueno_rina@microad.co.jp')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
-    'RAIVpflpDOg=')
+    WebUI.setEncryptedText(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
+        'RAIVpflpDOg=')
 
-WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Login'))
+    WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Login'))
 
-WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Record Test'))
+    WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Record Test'))
 
-WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channels'))
+    WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channels'))
 
-WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_UNIVERSE'))
+    WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_UNIVERSE'))
 
-WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Campaigns'))
-
-WebUI.openBrowser('')
+    WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Campaigns'))
+}
 
 WebUI.closeBrowser()
 
@@ -60,4 +60,6 @@ WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Di
 WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Become'))
 
 WebUI.click(findTestObject('Object Repository/Login1/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Campaigns'))
+
+WebUI.closeBrowser()
 

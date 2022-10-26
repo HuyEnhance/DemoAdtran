@@ -29,6 +29,56 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Facebook",
+      "brokenLocator": "//div[@id\u003d\u0027horizontal-navbar\u0027]/ul/li[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Facebook\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery",
+      "brokenLocator": "//div[@id\u003d\u0027layout-static\u0027]/div[2]/div/div/div[2]/div/div/div[2]/div/div[2]/div/div/div/table/tbody/tr[8]/td[3]/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027CCC\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter",
+      "brokenLocator": "//div[@id\u003d\u0027horizontal-navbar\u0027]/ul/li[2]/ul/li[5]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027twitter\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo",
+      "brokenLocator": "//div[@id\u003d\u0027horizontal-navbar\u0027]/ul/li[2]/ul/li[6]/a[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Yahoo スポンサードサーチ\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter",
+      "brokenLocator": "//div[@id\u003d\u0027horizontal-navbar\u0027]/ul/li[2]/ul/li[5]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027SoftBank Ads Platform\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

@@ -27,35 +27,6 @@ WebUI.setText(findTestObject('Object Repository/Client Dashboard/Page_AdTran - I
 WebUI.setEncryptedText(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
     'RAIVpflpDOg=')
 
-WebUI.sendKeys(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Campaign Settings'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channel Settings'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Connected Channels'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/small'))
-
-WebUI.openBrowser('')
-
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://internal.demo.maplus.microadtech.com/#/campaigns/263')
-
-WebUI.setText(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_161e55'), 
-    'ueno_rina@microad.co.jp')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_From now, please use your email for l_d55e4a'), 
-    'RAIVpflpDOg=')
-
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Login'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Campaign Settings'))
@@ -64,11 +35,25 @@ WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Int
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channel Settings'))
 
+
+
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Connected Channels'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/small'))
 
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+for (int i = 0; i < 1; i++) {
+    if (WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter')) == 
+    false) {
+        continue
+    } else {
+        break
+    }
+}
+
+//WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter'))
+WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
+
+WebUI.disableSmartWait()
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
 
@@ -77,4 +62,8 @@ WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Int
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+
+WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+
+WebUI.closeBrowser()
 
