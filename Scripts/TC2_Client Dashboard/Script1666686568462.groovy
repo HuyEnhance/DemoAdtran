@@ -34,9 +34,6 @@ WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Int
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channel Settings'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Channel Settings'))
-
-
-
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Connected Channels'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/small'))
@@ -45,25 +42,30 @@ for (int i = 0; i < 1; i++) {
     if (WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter')) == 
     false) {
         continue
+		WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
+		
     } else {
+		WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
+		WebUI.disableSmartWait()
+		
         break
     }
 }
 
 //WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter'))
-WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
+//WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
 
-WebUI.disableSmartWait()
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
-
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+//WebUI.disableSmartWait()
+//
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+//
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+//
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+//
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
+//
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_HYBRID_switchery'))
 
 WebUI.closeBrowser()
 

@@ -40,17 +40,43 @@ WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Int
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Report'))
 
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_CCC'))
+if (WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_CCC')) == 
+false) {
+    printf('khong hien channel da enable')
+} else {
+    printf('Da hien channel')
+}
 
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_CCC'))
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/i_Report_fa fa-angle-down'))
+if (WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter')) ==
+	false) {
+		printf('khong hien channel da enable')
+	} else {
+		printf('co hien channel')
+	}
 
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter'))
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter'))
+	
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Report'))
 
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Report'))
+if (WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Report')) == 
+false) {
+    printf('khong hien channel da enable')
+} else {
+    printf('co hien channel')
+}
+if (WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo')) ==
+	false) {
+		printf('khong hien channel da enable')
+	} else {
+		printf('co hien channel')
+	}
 
-WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
-
+//WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/span_Report'))
 
 WebUI.click(findTestObject('Object Repository/Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Facebook'))
+
+WebUI.closeBrowser()
 
