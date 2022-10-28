@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Campaign Settings</name>
+   <tag></tag>
+   <elementGuidId>f89e7882-353c-4ddc-a242-9c388c634d04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-sidebar']/nav/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>114227f6-a992-4f65-878f-af88aa397821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campaign Settings</value>
+      <webElementGuid>adced6ce-18c4-4260-99b7-dd9ced1b600c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-sidebar&quot;)/nav[@class=&quot;widget-body&quot;]/ul[@class=&quot;acc-menu&quot;]/li[@class=&quot;hasChild&quot;]/a[1]</value>
+      <webElementGuid>5939bf17-efac-4f05-9bca-211595637c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-sidebar']/nav/ul/li[9]/a</value>
+      <webElementGuid>1afcd422-da08-4f5c-863d-f010e9d8be12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Sources'])[1]/following::a[1]</value>
+      <webElementGuid>44e99b91-6720-41c4-832c-64a8e2b41a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manually Upload'])[1]/following::a[2]</value>
+      <webElementGuid>36de5d88-3acc-47f6-b977-f151678f256d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KPI Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd2975fd-7878-4817-9caf-a35dc69466fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>1081f9e6-ddad-4bdc-bedd-cc3358208c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Campaign Settings' or . = 'Campaign Settings')]</value>
+      <webElementGuid>ac0a4635-2ca8-42d0-b6e0-020f39da0b5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

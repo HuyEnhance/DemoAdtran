@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small</name>
+   <tag></tag>
+   <elementGuidId>4cd5b4b5-f3f7-4308-904b-aba6a54aa8ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[2]/span/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.mb.ng-scope > div.col-xs-8.pt-sm.pb-sm > span.switchery > small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>b9abdeb9-bf1f-4fbd-8174-0aa8da5ee0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body p-md&quot;]/div[@class=&quot;row mb ng-scope&quot;]/div[@class=&quot;col-xs-8 pt-sm pb-sm&quot;]/span[@class=&quot;switchery&quot;]/small[1]</value>
+      <webElementGuid>ff33acfa-b007-4280-bbfc-346d758695a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[2]/span/small</value>
+      <webElementGuid>8724cddd-1c02-45b7-937a-34e97d5860ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/span/small</value>
+      <webElementGuid>69feefd6-2bd9-49b6-a953-5eae9886623f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -42,7 +42,13 @@ for (int i = 0; i < 1; i++) {
     if (WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_twitter')) == 
     false) {
         continue
-		WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))
+		if (WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo')) ==
+			false) {
+				printf('da disable')
+			} else {
+				printf('enable')
+			}
+		
 		
     } else {
 		WebUI.verifyElementClickable(findTestObject('Client Dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/a_Yahoo'))

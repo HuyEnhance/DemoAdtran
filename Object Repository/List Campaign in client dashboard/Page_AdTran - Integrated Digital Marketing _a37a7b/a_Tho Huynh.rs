@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tho Huynh</name>
+   <tag></tag>
+   <elementGuidId>872bdb40-3ade-48e0-a273-78fbd81ce98c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-left > a.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>649f79f4-4e61-4936-9210-b4edb0c5249f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/users/476</value>
+      <webElementGuid>f3bdbb60-cc15-498f-9e74-85c9ce137f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>3d7be3c7-18a5-4ef1-a7a5-f0f2378fb50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tho Huynh</value>
+      <webElementGuid>f7ffb69d-72f1-4c62-a4c2-d894eb5109f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-static&quot;)/div[@class=&quot;static-content-wrapper&quot;]/div[@class=&quot;static-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body p-md&quot;]/div[@class=&quot;table-responsive-improve table-bordered mb-n&quot;]/div[@class=&quot;dataTables_wrapper form-inline no-footer ng-scope ng-isolate-scope&quot;]/table[@class=&quot;table table-bordered table-striped dataTable no-footer&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;text-left&quot;]/a[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>18be6b12-f91f-4035-a53b-4a76235cc8c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-static']/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>344c295d-5a55-4b2e-ad10-473af78fc934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tho Huynh')]</value>
+      <webElementGuid>9e4e238e-8cf1-4570-9183-3d5f33a95b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Login'])[1]/following::a[1]</value>
+      <webElementGuid>9e6a8898-3595-47e4-9d89-5b729d56fdb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[1]</value>
+      <webElementGuid>56134247-70e8-434c-8d72-d90c70b4d860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tho_huynh@enhance.vn'])[1]/preceding::a[1]</value>
+      <webElementGuid>6897a0b3-c877-4a52-964c-56b71a131574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External'])[2]/preceding::a[1]</value>
+      <webElementGuid>b795d702-4252-4441-99b0-259868e7c104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tho Huynh']/parent::*</value>
+      <webElementGuid>d1c2b371-0892-4e16-9f8e-2f4f35f97f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/users/476')]</value>
+      <webElementGuid>69472c7f-af6a-4983-acf3-a353eed62e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>25e7d30b-8a5f-43f0-b2d3-14faaf32219b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/users/476' and (text() = 'Tho Huynh' or . = 'Tho Huynh')]</value>
+      <webElementGuid>f63268db-5e5e-4ceb-9e42-4c3cc4f36280</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dashboard Display Settings</name>
+   <tag></tag>
+   <elementGuidId>3f53d6f9-2ba4-4d87-a9ce-795641a36727</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-sidebar']/nav/ul/li[9]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f96bf28-68a0-4b4b-ab16-f2b7e027b546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/campaigns/776/settings/display</value>
+      <webElementGuid>11a328c4-7d80-426b-92dc-97bed625ae94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>338a271b-1a5e-4110-80a3-1db07ad7da99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard Display Settings</value>
+      <webElementGuid>c8ea7af6-a632-46ed-a94e-97e27414609d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-sidebar&quot;)/nav[@class=&quot;widget-body&quot;]/ul[@class=&quot;acc-menu&quot;]/li[@class=&quot;hasChild open&quot;]/ul[@class=&quot;acc-menu&quot;]/li[6]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>e2b39bc7-d53e-43ef-9fc7-c90997c54834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-sidebar']/nav/ul/li[9]/ul/li[6]/a</value>
+      <webElementGuid>4c886623-3e72-454c-b049-7a7e968b24d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Dashboard Display Settings')]</value>
+      <webElementGuid>a88fc1f5-64d1-4f33-a976-e9732aa12f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max Revenue Settings'])[1]/following::a[1]</value>
+      <webElementGuid>b96efade-0786-446f-846d-5c8335e0fcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KPI Settings'])[2]/following::a[2]</value>
+      <webElementGuid>d84ac8c5-e9ab-4adb-993a-012b44a4fcd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>306879e7-b19b-4c57-a937-81b15299f5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign Info'])[1]/preceding::a[2]</value>
+      <webElementGuid>39daebd9-c246-4574-ba4f-c5b2c480c04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard Display Settings']/parent::*</value>
+      <webElementGuid>3f5280dc-1e24-4e8a-aabe-6117c4de8c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/campaigns/776/settings/display')]</value>
+      <webElementGuid>061b2f4f-11f2-4249-9364-a283e5763cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li[6]/a</value>
+      <webElementGuid>0a84d812-e5c4-495c-a633-89c8d39f8ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/campaigns/776/settings/display' and (text() = 'Dashboard Display Settings' or . = 'Dashboard Display Settings')]</value>
+      <webElementGuid>e5c1ccd5-3238-423a-9bf6-9bff0c121abf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

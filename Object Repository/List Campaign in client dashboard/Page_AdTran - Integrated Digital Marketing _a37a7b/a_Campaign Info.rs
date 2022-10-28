@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Campaign Info</name>
+   <tag></tag>
+   <elementGuidId>50344870-dde0-40d5-9dea-f1bac5c15b99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-sidebar']/nav/ul/li[9]/ul/li[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9aecfc9-51c9-498a-a528-873e4e0293af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/campaigns/776/settings</value>
+      <webElementGuid>af967856-4e38-4df0-ac4e-cc5cab3f7096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>2d553a79-1311-4dde-8e0f-a3fd74270501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campaign Info</value>
+      <webElementGuid>c67b4b64-4df3-44c2-8f5b-da4c7c5dd07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-sidebar&quot;)/nav[@class=&quot;widget-body&quot;]/ul[@class=&quot;acc-menu&quot;]/li[@class=&quot;hasChild active open&quot;]/ul[@class=&quot;acc-menu&quot;]/li[8]/a[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>66f7327a-489b-405b-b128-a14b74ea52bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-sidebar']/nav/ul/li[9]/ul/li[8]/a</value>
+      <webElementGuid>911fb45a-fcce-4c96-ba12-ee0dbfb42ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Campaign Info')]</value>
+      <webElementGuid>33d7cf40-fdf6-4039-a5b1-4b9266f66a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Settings'])[1]/following::a[1]</value>
+      <webElementGuid>46e7e2ee-6fb5-496c-abc1-b6da1d980075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard Display Settings'])[1]/following::a[2]</value>
+      <webElementGuid>5a980fe8-1f7c-4a3b-b2d4-2ab502953b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[1]/preceding::a[1]</value>
+      <webElementGuid>07ead0fe-b2a4-40c5-860a-4ffdd32d05c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversion Type Settings'])[1]/preceding::a[2]</value>
+      <webElementGuid>c08f7d24-d796-49be-9dd9-f35cec092b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Campaign Info']/parent::*</value>
+      <webElementGuid>6a04a62b-5bb4-44c5-8661-25bc9e341c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#/campaigns/776/settings')])[8]</value>
+      <webElementGuid>feb6d890-f682-4719-a5e0-8f2fc96ca839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li[8]/a</value>
+      <webElementGuid>b8a9399d-f6ce-46c4-8ced-11494ab27ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/campaigns/776/settings' and (text() = 'Campaign Info' or . = 'Campaign Info')]</value>
+      <webElementGuid>4d67b332-dc48-43df-a91b-dbeb267c1ac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

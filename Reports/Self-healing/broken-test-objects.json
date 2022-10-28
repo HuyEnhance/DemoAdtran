@@ -79,6 +79,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/List Campaign in client dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_Cancel_select2-input select2-focused",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[16]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@type \u003d \u0027text\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/List Campaign in client dashboard/Page_AdTran - Integrated Digital Marketing _a37a7b/input_Cancel_select2-input select2-focused_customAttributes.png"
     }
   ]
 }

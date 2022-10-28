@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Campaign Settings</name>
+   <tag></tag>
+   <elementGuidId>8fb8d2fb-5f8f-4b2c-a2c0-f043471c0366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-sidebar']/nav/ul/li[9]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab1af472-b1fa-4802-b8b8-d77f611bb90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>46325c84-a159-4740-ba71-d924d36b8d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Campaign Settings</value>
+      <webElementGuid>6b603433-3f9a-4fff-afd1-6f45330b51c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-sidebar&quot;)/nav[@class=&quot;widget-body&quot;]/ul[@class=&quot;acc-menu&quot;]/li[@class=&quot;hasChild&quot;]/a[1]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>da9b4c83-430e-4766-96fc-4bd90f866f70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-sidebar']/nav/ul/li[9]/a/span</value>
+      <webElementGuid>d46ad757-99f0-4925-8a69-5ff3a5d125c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Sources'])[1]/following::span[1]</value>
+      <webElementGuid>31756279-4ca1-43c0-906e-ba0a45797fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manually Upload'])[1]/following::span[1]</value>
+      <webElementGuid>073dbb25-38db-412e-a127-7450c9367cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KPI Settings'])[1]/preceding::span[1]</value>
+      <webElementGuid>7878c783-2fa5-400e-b341-473a56e6d873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Budget Settings'])[1]/preceding::span[1]</value>
+      <webElementGuid>8936cbd8-cf96-414a-8a9a-f600f8dd76c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Campaign Settings']/parent::*</value>
+      <webElementGuid>ba0d755d-bcba-4953-9bff-e31f9f770a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a/span</value>
+      <webElementGuid>4ee10203-397d-458e-b399-e58e4efa4230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Campaign Settings' or . = 'Campaign Settings')]</value>
+      <webElementGuid>fb21ddf0-262c-4480-bc23-e100da2e561e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>B2:Bên Internal 
+- Về phía CAMPAIGN thì nó phải bật Enable 
+- Mối quan hệ với CAMPAIGN và CLIENT thì campaign này phải có 1 client
+- mối quan hệ với USER và CLIENT là phải quản lý chung camapign</description>
+   <name>TC2_List Campaign in Client</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c31c5ab6-5fe2-45a0-843e-f1f00ee929df</testCaseGuid>
+</TestCaseEntity>
